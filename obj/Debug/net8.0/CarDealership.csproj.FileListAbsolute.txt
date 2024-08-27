@@ -1,0 +1,14 @@
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\bin\Debug\net8.0\CarDealership.exe
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\bin\Debug\net8.0\CarDealership.deps.json
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\bin\Debug\net8.0\CarDealership.runtimeconfig.json
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\bin\Debug\net8.0\CarDealership.dll
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\bin\Debug\net8.0\CarDealership.pdb
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfoInputs.cache
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfo.cs
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.csproj.CoreCompileInputs.cache
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.dll
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\refint\CarDealership.dll
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.pdb
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\CarDealership.genruntimeconfig.cache
+X:\MAINFRAME\Emne 3 C#\CarDealership\CarDealership\obj\Debug\net8.0\ref\CarDealership.dll
